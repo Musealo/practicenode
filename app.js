@@ -12,4 +12,4 @@ const routes = require("./routes");
 // next gen js
 const server = http.createServer(routes);
 
-server.listen(3000);
+server.listen(3010);
